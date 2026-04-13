@@ -1,5 +1,5 @@
 
-<p align = "center">
+<p align = "center" padding = "500">
   <img src = "StatementsGif.gif" width = "350"/>
 </p>
 
