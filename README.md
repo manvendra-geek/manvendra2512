@@ -6,6 +6,6 @@
 
 
   
-<p align = "center">
+<p align = "right">
 <img src = "AnimationGithub.gif" width = "400"/>
 </p>
