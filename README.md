@@ -7,5 +7,5 @@
 
   
 <p align = "center">
-<img src = "AnimationGithub.gif" width = "100%"/>
+<img src = "AnimationGithub.gif" width = "400"/>
 </p>
