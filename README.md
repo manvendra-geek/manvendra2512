@@ -43,9 +43,27 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manvendra-geek&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manvendra-geek&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manvendra-geek&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendra-geek&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendra-geek&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 ---
